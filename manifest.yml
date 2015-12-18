@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: stage1.mybluemix.net
-  name: swift-app
-  host: swift-app
+  domain: mybluemix.net
+  name: een-facial
+  host: een-facial
   disk_quota: 1024M
